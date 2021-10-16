@@ -1,2 +1,2 @@
-# PRO-C27-SA
-Boilerplate code for c27 SA
+# PRO-C27-AA
+Código de plantilla para la actividad del alumno para c27
